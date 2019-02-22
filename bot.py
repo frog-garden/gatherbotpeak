@@ -17,5 +17,5 @@ async def on_message(message):
     elif message.content.startswith("/gather"):
             await client.send_message(message.channel, random.choice([ "```What the...? A **Perfectly Round Pebble** sits by your paws! *(1 point)*```",]
             
-client.run("NTQzNTYyNTY0NjU1NjQ0Njc0.D1IORA.od4M92mlqjRgDLTaiLRf0Du9n-Y")
+client.run("NTQ4NjQxOTkyODc2MjI4NjM4.D1ISMQ.z6aZL4bZzJ3ypn0fCMhgXYwAreE")
 client.login(process.env.BOT_TOKEN);
