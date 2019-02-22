@@ -18,4 +18,4 @@ async def on_message(message):
             await client.send_message(message.channel, random.choice([ "```What the...? A **Perfectly Round Pebble** sits by your paws! *(1 point)*```",]
             
 client.run("NTQ4NjQxOTkyODc2MjI4NjM4.D1ISMQ.z6aZL4bZzJ3ypn0fCMhgXYwAreE")
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN); 
